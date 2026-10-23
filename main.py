@@ -1,3 +1,7 @@
+#This is the basic example of Linear Regression model 
+#It comes under superwised learning 
+#The training set you feed to the algorithm includes the desired solutions called LABLES
+
 
 from sklearn.linear_model import LinearRegression
 
